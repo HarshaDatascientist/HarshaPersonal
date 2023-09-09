@@ -1,2 +1,2 @@
 # personal-website
-Personal Website of Dr. Avinash Bhute
+Personal Website of Dr. Harsha A Bhute
